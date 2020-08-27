@@ -1,0 +1,44 @@
+body{
+    background-image: url(stars.jpg);
+}
+.navbar-brand{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 1.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nav-item {
+    line-height: 1;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+span{
+    color: lawngreen;
+}
+.center-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    text-align: center;
+}
+.card{
+    background-color: rgba(0,0,0,0.8);
+}
+.card-header{
+    line-height: 1;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+}
+.card-body{
+    color: white;
+}
+#img-poster{
+    visibility: hidden;
+    display: block;
+}
