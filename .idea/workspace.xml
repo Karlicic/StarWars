@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cf6b7e8-1f9e-4c92-9b88-6a6688e3ec05" name="Default Changelist" comment="" />
+    <list default="true" id="6cf6b7e8-1f9e-4c92-9b88-6a6688e3ec05" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/184648b99e33ac046e3872c60954b110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/meme.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/31-319029_windows-10-wallpaper-star-wars-r2-d2-minimalist.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/club1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/club1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dbpw2g3-4d613d00-34ad-49f5-88e8-a1591a68f61e.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/yoda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,10 +42,15 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gbP9NplC4ZAJcYCoQdq4E7zwAM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,8 +59,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -35,6 +73,16 @@
       <recent name="C:\Users\User\WebstormProjects\StarWars\images" />
       <recent name="C:\Users\User\WebstormProjects\StarWars\css" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,28 +95,89 @@
       <workItem from="1598380168967" duration="628000" />
       <workItem from="1598440097168" duration="6570000" />
       <workItem from="1598508207468" duration="30601000" />
+      <workItem from="1598555919025" duration="338000" />
+      <workItem from="1598599119754" duration="13351000" />
+      <workItem from="1598629905962" duration="2703000" />
+      <workItem from="1598689564904" duration="3000" />
+      <workItem from="1598717781723" duration="17914000" />
+      <workItem from="1598851943813" duration="5611000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1598556141807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598556141807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="242" key="#Images" timestamp="1598542711363">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="520" y="242" key="#Images/0.0.1536.864@0.0.1536.864" timestamp="1598542711363" />
-    <state x="395" y="111" key="#Inspections" timestamp="1598520201268">
+    <state x="395" y="111" key="#Inspections" timestamp="1598781546181">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1598520201268" />
+    <state x="395" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1598781546181" />
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598544146107">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598544146107" />
+    <state x="647" y="330" key="Github.ShareDialog" timestamp="1598555946742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="647" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1598555946742" />
+    <state x="516" y="137" key="Github.UntrackedFilesDialog" timestamp="1598555953495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="516" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598555953495" />
+    <state width="1515" height="97" key="GridCell.Tab.0.bottom" timestamp="1598856895305">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598856895305" />
+    <state width="1515" height="97" key="GridCell.Tab.0.center" timestamp="1598856895304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598856895304" />
+    <state width="1515" height="97" key="GridCell.Tab.0.left" timestamp="1598856895304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598856895304" />
+    <state width="1515" height="97" key="GridCell.Tab.0.right" timestamp="1598856895305">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598856895305" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598556183807">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598556183807" />
     <state x="541" y="306" width="609" height="280" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598513186561">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="541" y="306" width="609" height="280" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1598513186561" />
+    <state x="549" y="237" key="save.file.as.template.dialog" timestamp="1598632606674">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="237" key="save.file.as.template.dialog/0.0.1536.864@0.0.1536.864" timestamp="1598632606674" />
   </component>
 </project>
